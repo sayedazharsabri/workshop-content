@@ -3,3 +3,10 @@ Recording is available on YouTube
 Link: https://www.youtube.com/channel/UC0WKTSptW8OoMePQjGAubBQ?sub_confirmation=1
 Playlist: NodeJS Class & Interview [Hindi]
 
+Foderwise topics:
+
+Day1
+Arrow functions
+ObjectDestructuring
+Call
+
