@@ -10,3 +10,11 @@ Arrow functions
 ObjectDestructuring
 Call
 
+Day2
+- apply()
+- bind()
+- process.nextTick()
+- setImmediate()
+- setTimeout()
+- yield
+
