@@ -55,4 +55,5 @@ const checkTypesAndInterface = (req: Request, res: Response) =>{
     res.send(result);
 }
 
+
 export {regsiterUser, checkTypesAndInterface}
