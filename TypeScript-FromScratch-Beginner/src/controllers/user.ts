@@ -56,4 +56,39 @@ const checkTypesAndInterface = (req: Request, res: Response) =>{
 }
 
 
+
+interface Student{
+    name:String,
+    age: Number
+}
+
+interface Student{
+    level:String
+}
+
+const mergeInterface = (req: Request, res: Response) =>{
+
+    const akarsh:Student  = {name:"Akarsh", age:24, level:"BTech"};
+}
+
+
+class Employee{
+    ename:String;
+    salary:Number;
+    constructor(name:String, salary:Number){
+        this.ename = name;
+        this.salary = salary;
+    }
+}
+
+class EmployeeWithAge extends Employee {
+    age:Number = 0;
+}
+
+const relatedToClass = (req: Request, res: Response) => {
+    const Ramesh = new EmployeeWithAge("Ramesh", 200000);
+    Ramesh.salary = 300000;
+    Ramesh.age = 32;
+}
+
 export {regsiterUser, checkTypesAndInterface}
