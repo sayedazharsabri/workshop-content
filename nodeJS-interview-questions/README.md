@@ -5,13 +5,13 @@ Playlist: NodeJS Class & Interview [Hindi]
 
 Topics:
 
-- [apply()](/nodeJS-interview-questions/individual-question-with-example/apply.js) 
-- [Arrow functions](/individual-question-with-example/Arrowfunction.js)
-- [bind()](/individual-question-with-example/bind.js)
-- [Call](/individual-question-with-example/Call.js)
-- [Object Destructuring](/individual-question-with-example/ObjectDestructuring.js)
-- [process.nextTick()](/individual-question-with-example/process.nextTick.js)
-- [setImmediate()](/individual-question-with-example/setimmediate.js)
-- [setTimeout()](/individual-question-with-example/settimout.js)
-- [yield](/individual-question-with-example/yields.js)
+- [apply()](/nodeJS-interview-questions/individual-questions-with-example/apply.js) 
+- [Arrow functions](/nodeJS-interview-questions/individual-questions-with-example/Arrowfunction.js)
+- [bind()](/nodeJS-interview-questions/individual-questions-with-example/bind.js)
+- [Call](/nodeJS-interview-questions/individual-questions-with-example/Call.js)
+- [Object Destructuring](/nodeJS-interview-questions/individual-questions-with-example/ObjectDestructuring.js)
+- [process.nextTick()](/nodeJS-interview-questions/individual-questions-with-example/process.nextTick.js)
+- [setImmediate()](/nodeJS-interview-questions/individual-questions-with-example/setimmediate.js)
+- [setTimeout()](/nodeJS-interview-questions/individual-questions-with-example/settimout.js)
+- [yield](/nodeJS-interview-questions/individual-questions-with-example/yields.js)
 
