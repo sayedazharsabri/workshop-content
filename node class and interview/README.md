@@ -5,7 +5,7 @@ Playlist: NodeJS Class & Interview [Hindi]
 
 Topics:
 
-- [apply()](/individual-question-with-example/apply.js) 
+- [apply()](/nodeJS-interview-questions/individual-question-with-example/apply.js) 
 - [Arrow functions](/individual-question-with-example/Arrowfunction.js)
 - [bind()](/individual-question-with-example/bind.js)
 - [Call](/individual-question-with-example/Call.js)
