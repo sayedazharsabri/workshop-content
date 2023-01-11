@@ -1,0 +1,1 @@
+console.log(Math.abs(0.1 + 0.2));
