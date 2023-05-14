@@ -5,7 +5,7 @@ Playlist: NodeJS Class & Interview [Hindi]
 
 Topics:
 
-- [apply()](/nodeJS-interview-questions/individual-questions-with-example/apply.js) 
+- [apply()](/nodeJS-interview-questions/individual-questions-with-example/apply.js)
 - [Arrow functions](/nodeJS-interview-questions/individual-questions-with-example/Arrowfunction.js)
 - [bind()](/nodeJS-interview-questions/individual-questions-with-example/bind.js)
 - [Call](/nodeJS-interview-questions/individual-questions-with-example/Call.js)
@@ -14,4 +14,4 @@ Topics:
 - [setImmediate()](/nodeJS-interview-questions/individual-questions-with-example/setimmediate.js)
 - [setTimeout()](/nodeJS-interview-questions/individual-questions-with-example/settimout.js)
 - [yield](/nodeJS-interview-questions/individual-questions-with-example/yields.js)
-
+- [Event Emitter](/nodeJS-interview-questions/individual-questions-with-example/event_emitter)
