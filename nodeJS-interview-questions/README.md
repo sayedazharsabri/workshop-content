@@ -1,7 +1,7 @@
 This forlder contains the content of Live classes of NodeJS important interview topics.
 Recording is available on YouTube
-Link: https://www.youtube.com/channel/UC0WKTSptW8OoMePQjGAubBQ?sub_confirmation=1
-Playlist: NodeJS Class & Interview [Hindi]
+[Link to YouTube Channel](https://www.youtube.com/channel/UC0WKTSptW8OoMePQjGAubBQ?sub_confirmation=1)
+Playlist: NodeJS Class & Interview [Hindi](https://www.youtube.com/watch?v=zSooc0r_6I4&list=PLIfcYFqzDXHmT0DByR0bbAFtEWfcOMShP)
 
 Topics:
 
