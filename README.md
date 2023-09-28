@@ -3,9 +3,10 @@ In this repository, you will find content(Not projects, for projects I have crea
 
 
 ## Directory: node class and interview
-This repository contains implementations of different topics of "NodeJS Class and Interview" live classes.
-Videos link: https://www.youtube.com/channel/UC0WKTSptW8OoMePQjGAubBQ?sub_confirmation=1
-Playlist: NodeJS Class & Interview [Hindi]
+- [Index to content](https://github.com/sayedazharsabri/workshop-content/tree/main/nodeJS-interview-questions#readme)
+- This repository contains implementations of different topics of "NodeJS Class and Interview" live classes.
+- [Videos link](https://www.youtube.com/channel/UC0WKTSptW8OoMePQjGAubBQ?sub_confirmation=1)
+- Playlist Name: NodeJS Class & Interview [Hindi]
 
 
 ## Directory: TypeScript-FromScratch-Conversion-from-NodeJS
