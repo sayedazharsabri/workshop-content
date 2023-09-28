@@ -18,4 +18,5 @@ Topics:
 - [Router](/nodeJS-interview-questions/router)
 - [setImmediate()](/nodeJS-interview-questions/individual-questions-with-example/setimmediate.js)
 - [setTimeout()](/nodeJS-interview-questions/individual-questions-with-example/settimout.js)
+- [Shallow copy vs Deep Copy](/nodeJS-interview-questions/shallow-copy-vs-deep-copy)
 - [yield](/nodeJS-interview-questions/individual-questions-with-example/yields.js)
