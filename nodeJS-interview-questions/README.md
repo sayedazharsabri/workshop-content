@@ -15,6 +15,7 @@ Topics:
 - [MongoDB and NodeJS](/nodeJS-interview-questions/mongodb-and-nodejs)
 - [Object Destructuring](/nodeJS-interview-questions/individual-questions-with-example/ObjectDestructuring.js)
 - [process.nextTick()](/nodeJS-interview-questions/individual-questions-with-example/process.nextTick.js)
+- [Revealing module pattern](/nodeJS-interview-questions/individual-questions-with-example/revealingModulePattern.js)
 - [Router](/nodeJS-interview-questions/router)
 - [setImmediate()](/nodeJS-interview-questions/individual-questions-with-example/setimmediate.js)
 - [setTimeout()](/nodeJS-interview-questions/individual-questions-with-example/settimout.js)
