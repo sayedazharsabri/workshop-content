@@ -20,5 +20,5 @@ Topics:
 - [setImmediate()](/nodeJS-interview-questions/individual-questions-with-example/setimmediate.js)
 - [setTimeout()](/nodeJS-interview-questions/individual-questions-with-example/settimout.js)
 - [Shallow copy vs Deep Copy](/nodeJS-interview-questions/shallow-copy-vs-deep-copy)
-- [Static folder: to serve images from server](/static-folder/) [Video](https://youtu.be/fxN2BMCmFHQ?si=wIUMINSSeSVFzunR)
+- [Static folder: to serve images from server](/nodeJS-interview-questions/static-folder/) [Video](https://youtu.be/fxN2BMCmFHQ?si=wIUMINSSeSVFzunR)
 - [yield](/nodeJS-interview-questions/individual-questions-with-example/yields.js)
