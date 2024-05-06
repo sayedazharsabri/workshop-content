@@ -12,6 +12,7 @@ Topics:
 - [Call](/nodeJS-interview-questions/individual-questions-with-example/Call.js)
 - [closure](/nodeJS-interview-questions/individual-questions-with-example/closure.js)
 - [Event Emitter](/nodeJS-interview-questions/event_emitter)
+- [Exception handling in NodeJS](./exception-handeling/README.md) [Watch](https://youtu.be/2t9GWFiKj8o)
 - [MongoDB and NodeJS](/nodeJS-interview-questions/mongodb-and-nodejs)
 - [Object Destructuring](/nodeJS-interview-questions/individual-questions-with-example/ObjectDestructuring.js)
 - [process.nextTick()](/nodeJS-interview-questions/individual-questions-with-example/process.nextTick.js)
