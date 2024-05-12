@@ -11,3 +11,4 @@ This repository contains the programs explained in workshops and classes and vid
 - [Quesiton: How do you check that 2 is passed to a function or not?](./Is%202%20passed%20to%20a%20function.js)[Watch Video](https://youtu.be/20LChDoaSsQ)
 - [Quesiton: How will you write a method on instance of a date, which will give you next date?](./method%20on%20instance%20of%20a%20date%20to%20get%20next%20date.js)[Watch Video](https://youtu.be/8_Ldy699bFM)
 - [Quesiton: How will you write a method on JavaScript Date, which will give you next date?](./method%20on%20Date%20to%20get%20next%20date.js)[Watch Video](https://youtu.be/8_Ldy699bFM)
+- [Question: How to set prefix before everyline you log](./how-to-set-prefix-before-everyline-you-log.js)[Watch Video](https://youtu.be/_1DgjMXEnP4)
