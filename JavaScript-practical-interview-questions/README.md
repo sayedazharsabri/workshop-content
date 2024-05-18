@@ -13,3 +13,4 @@ This repository contains the programs explained in workshops and classes and vid
 - [Quesiton: How will you write a method on JavaScript Date, which will give you next date?](./method%20on%20Date%20to%20get%20next%20date.js)[Watch Video](https://youtu.be/8_Ldy699bFM)
 - [Question: How to set prefix before everyline you log](./how-to-set-prefix-before-everyline-you-log.js)[Watch Video](https://youtu.be/_1DgjMXEnP4)
 - [Question: How could you use Math.max - apply to find maximum number from a list](./How-could-you-use-Math-max-apply-to-find-maximum-number-from-a-list.js)[Watch Video](https://youtu.be/gDVNQF87yIg)
+- [Question: How to add duplicator on array to repeat array [1,2].duplicator() => [1,2,1,2]](./how-to-add-duplicator-on-array-to-repeat-array.js)[Watch Video](https://youtu.be/XSGxEE04xKI)
