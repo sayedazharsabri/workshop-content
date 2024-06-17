@@ -15,3 +15,4 @@ This repository contains the programs explained in workshops and classes and vid
 - [Question: How could you use Math.max - apply to find maximum number from a list](./How-could-you-use-Math-max-apply-to-find-maximum-number-from-a-list.js)[Watch Video](https://youtu.be/gDVNQF87yIg)
 - [Question: How to add duplicator on array to repeat array [1,2].duplicator() => [1,2,1,2]](./how-to-add-duplicator-on-array-to-repeat-array.js)[Watch Video](https://youtu.be/XSGxEE04xKI)
 - [Question: Write a function createHelloWorld. It should return a new function that always returns "Hello World".](./write-a-function-createHelloWorld-It-should-return-a-new-function-that-always-returns-Hello-World.js)[Watch Video](https://youtu.be/E4AKSxnm8GU)
+- [Question: Write a counter function using closure, and provide option to set the starting value.](./write-a-counter-function-using-closure,-and-provide-option-to-set-the-starting-value.js) [Watch Video](https://youtu.be/JAjewrmCNY4)
