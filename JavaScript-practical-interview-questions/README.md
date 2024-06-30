@@ -14,6 +14,12 @@ This repository contains the programs explained in workshops and classes and vid
 - [Question: How to set prefix before everyline you log](./how-to-set-prefix-before-everyline-you-log.js) [Watch Video](https://youtu.be/_1DgjMXEnP4)
 - [Question: How could you use Math.max - apply to find maximum number from a list](./How-could-you-use-Math-max-apply-to-find-maximum-number-from-a-list.js)[Watch Video](https://youtu.be/gDVNQF87yIg)
 - [Question: How to add duplicator on array to repeat array [1,2].duplicator() => [1,2,1,2]](./how-to-add-duplicator-on-array-to-repeat-array.js) [Watch Video](https://youtu.be/XSGxEE04xKI)
+
+### Closure Question start
+
 - [Question: Write a function createHelloWorld. It should return a new function that always returns "Hello World".](./write-a-function-createHelloWorld-It-should-return-a-new-function-that-always-returns-Hello-World.js) [Watch Video](https://youtu.be/E4AKSxnm8GU)
 - [Question: Write a counter function using closure, and provide option to set the starting value.](./write-a-counter-function-using-closure,-and-provide-option-to-set-the-starting-value.js) [Watch Video](https://youtu.be/JAjewrmCNY4)
 - [Question: Write a function to check To Be Or Not To Be](./write-a-function-to-check-to-be-or-not-to-be.js) [Watch Video](https://youtu.be/WDdUBlwk9Qs)
+- [Question: Write a counter function with increment, decrement, and reset options](./write-a-counter-function-with-increment-decrement-and-reset-options.js) [Watch Video](https://youtu.be/95KRwwrFXt0)
+
+### Closure Question Finish
