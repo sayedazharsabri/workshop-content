@@ -23,3 +23,9 @@ This repository contains the programs explained in workshops and classes and vid
 - [Question: Write a counter function with increment, decrement, and reset options](./write-a-counter-function-with-increment-decrement-and-reset-options.js) [Watch Video](https://youtu.be/95KRwwrFXt0)
 
 ### Closure Question Finish
+
+### Basic Array Transformations Start
+
+- [Question: How to create your own map function for integer array](./how-to-create-your-own-map-function-for-integer-array.js) [Watch Video](https://youtu.be/J9xpGDr72oo)
+
+### Basic Array Transformations Finish
