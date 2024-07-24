@@ -28,5 +28,6 @@ This repository contains the programs explained in workshops and classes and vid
 
 - [Question: How to create your own map function for integer array](./how-to-create-your-own-map-function-for-integer-array.js) [Watch Video](https://youtu.be/J9xpGDr72oo)
 - [Question: How to create your own filter function for integer array](./how-to-create-your-own-filter-function-for-integer-array.js) [Watch Video](https://youtu.be/On4MA0XRfhU)
+- [Question: How to create your own reduce function for integer array](./how-to-create-your-own-reduce-function-for-integer-array.js) [Watch Video](https://youtu.be/9_gKH3eTGSo)
 
 ### Basic Array Transformations Finish
