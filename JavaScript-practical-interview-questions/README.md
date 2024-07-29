@@ -31,3 +31,9 @@ This repository contains the programs explained in workshops and classes and vid
 - [Question: How to create your own reduce function for integer array](./how-to-create-your-own-reduce-function-for-integer-array.js) [Watch Video](https://youtu.be/9_gKH3eTGSo)
 
 ### Basic Array Transformations Finish
+
+### Basic Function Transformations Start
+
+- [Write a program to return a new function fn that is the function composition of the given array of functions.](./write-a-program-to-return-a-new-function-fn-that-is-the-function-composition-of-the-given-array-of-functions.js) [Watch Video](https://youtu.be/gp-IyiAuIi8)
+
+### Basic Function Transformations End
