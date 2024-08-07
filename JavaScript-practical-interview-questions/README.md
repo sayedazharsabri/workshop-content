@@ -36,5 +36,6 @@ This repository contains the programs explained in workshops and classes and vid
 
 - [Write a program to return a new function fn that is the function composition of the given array of functions.](./write-a-program-to-return-a-new-function-fn-that-is-the-function-composition-of-the-given-array-of-functions.js) [Watch Video](https://youtu.be/gp-IyiAuIi8)
 - [Write a program to return length of Arguments Passed to the function](./write-a-program-to-return-length-of-Arguments-Passed-to-the-function.js) [Watch Video](https://youtu.be/QKDhwpKl600)
+- [Write a program which takes a function and return a new function that is identical to the original function except that it ensures fn is called at most once](./write-a-program-which-takes-a-function-and-return-a-new-function-that-is-identical-to-the-original-function-except-that-it-ensures-fn-is-called-at-most-once.js) [Watch Video](https://youtu.be/gZtNlpBiBZ8)
 
 ### Basic Function Transformations End
