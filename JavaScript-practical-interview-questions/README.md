@@ -40,3 +40,9 @@ This repository contains the programs explained in workshops and classes and vid
 - [Write a program to create memoized version of that function](./write-a-program-to-create-memoized-version-of-that-function.js) [Watch Video](https://youtu.be/nzXAUZH0H9s)
 
 ### Basic Function Transformations End
+
+### Promises and Time Start
+
+- [Write a program to add two numbers, returned from different Promises](./write-a-program-to-add-two-numbers-returned-from-different-Promises.js) [Watch Video](https://youtu.be/Of3W7gjSuEo)
+
+### Promises and Time End
