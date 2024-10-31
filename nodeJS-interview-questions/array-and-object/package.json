@@ -1,0 +1,14 @@
+{
+  "name": "array-and-object",
+  "version": "1.0.0",
+  "description": "This forlder contains the content of NodeJS important interview topics related to Array and Object.\r Recording is available on YouTube\r [Link to YouTube Channel](https://www.youtube.com/channel/UC0WKTSptW8OoMePQjGAubBQ?sub_confirmation=1)\r Playlist: NodeJS Class & Interview [Hindi](https://www.youtube.com/watch?v=zSooc0r_6I4&list=PLIfcYFqzDXHmT0DByR0bbAFtEWfcOMShP)",
+  "main": "compare-two-objects-manually-object-level-function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

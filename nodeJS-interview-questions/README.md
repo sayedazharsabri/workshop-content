@@ -6,6 +6,7 @@ Playlist: NodeJS Class & Interview [Hindi](https://www.youtube.com/watch?v=zSooc
 Topics:
 
 - [apply()](/nodeJS-interview-questions/individual-questions-with-example/apply.js)
+- [Array and Objects](./array-and-object/README.md)
 - [async await](/nodeJS-interview-questions/async_await/readme.md)
 - [Arrow functions](/nodeJS-interview-questions/individual-questions-with-example/Arrowfunction.js)
 - [bind()](/nodeJS-interview-questions/individual-questions-with-example/bind.js)
