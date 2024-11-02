@@ -45,5 +45,6 @@ This repository contains the programs explained in workshops and classes and vid
 
 - [Write a program to add two numbers, returned from different Promises](./write-a-program-to-add-two-numbers-returned-from-different-Promises.js) [Watch Video](https://youtu.be/Of3W7gjSuEo)
 - [Write an asynchronous function that sleeps for n milliseconds](./write-an-asynchronous-function-that-sleeps-for-n-millis-milliseconds.js)[Watch Video](https://youtu.be/5oSNbMmsiB4)
+- [Write a program for continuous function call with cancellation option.](./write-a-program-for-continuous-function-call-with-cancellation-option.js)[Watch Video](https://youtu.be/dSJvuRlS_X4)
 
 ### Promises and Time End
