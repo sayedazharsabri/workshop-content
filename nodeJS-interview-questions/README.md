@@ -16,6 +16,7 @@ Topics:
 - [Event Emitter](/nodeJS-interview-questions/event_emitter)
 - [Exception handling in NodeJS](./exception-handeling/README.md) [Watch](https://youtu.be/2t9GWFiKj8o)
 - [MongoDB and NodeJS](/nodeJS-interview-questions/mongodb-and-nodejs)
+- [Node Timers Promises API](/Node-Timers-Promises-API/) [Watch](https://youtu.be/sCIwk4UrCJ4)
 - [Object Destructuring](/nodeJS-interview-questions/individual-questions-with-example/ObjectDestructuring.js)
 - [process.nextTick()](/nodeJS-interview-questions/individual-questions-with-example/process.nextTick.js)
 - [Rate limiting in NodeJS](./rate-limiting/) [Watch](https://youtu.be/Ju_7hYyB778)
